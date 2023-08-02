@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Game-of-Flags/static/css/main.306dee5b.css",
-    "main.js": "/Game-of-Flags/static/js/main.67b25fe8.js",
+    "main.css": "/Game-of-Flags/static/css/main.8c5828cf.css",
+    "main.js": "/Game-of-Flags/static/js/main.c93f6e8a.js",
     "static/media/rs.svg": "/Game-of-Flags/static/media/rs.dc155455e86e12200cb5.svg",
     "static/media/bo.svg": "/Game-of-Flags/static/media/bo.e0a90fef5f7c6c6ab66f.svg",
     "static/media/do.svg": "/Game-of-Flags/static/media/do.9e08e7a74f2edca14082.svg",
@@ -270,11 +270,11 @@
     "static/media/de.svg": "/Game-of-Flags/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/Game-of-Flags/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/id.svg": "/Game-of-Flags/static/media/id.f624e2c8444a7794b357.svg",
-    "main.306dee5b.css.map": "/Game-of-Flags/static/css/main.306dee5b.css.map",
-    "main.67b25fe8.js.map": "/Game-of-Flags/static/js/main.67b25fe8.js.map"
+    "main.8c5828cf.css.map": "/Game-of-Flags/static/css/main.8c5828cf.css.map",
+    "main.c93f6e8a.js.map": "/Game-of-Flags/static/js/main.c93f6e8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.306dee5b.css",
-    "static/js/main.67b25fe8.js"
+    "static/css/main.8c5828cf.css",
+    "static/js/main.c93f6e8a.js"
   ]
 }
